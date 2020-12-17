@@ -1,0 +1,18 @@
+How to use this tools ?
+=============================
+go chrome : 
+install python 2.7.14 from ' https://www.python.org/downloads/release/python-2714/ '
+complet installtion ( PATH IS IMPORTANT )
+=============================
+run cmd
+cd C:\Python27\Scripts
+pip install requests
+pip install updates
+
+=============================
+thats all enjoy hacking <3
+=============================
+
+DONATE ME :D <3 
+BTC : 1BKT6449VpnK11tvra6SkHa3xTYnP8m6n6
+ETH : 0xf08f1285f8c58a0edae4ae815e6f8637a531780e
